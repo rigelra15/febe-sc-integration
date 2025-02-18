@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       initialRoute: '/',
       routes: {
-        '/': (context) => Clientproyekdetailmerekrut(),
+        '/': (context) => Welcome(),
       },
     );
   }
